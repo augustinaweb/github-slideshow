@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to Augustina's slide!"
 ---
-Just trying to learn!
+I'm not perfect, but it's a start!
 Use the left arrow to go back!
